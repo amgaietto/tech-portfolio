@@ -3,12 +3,6 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+I recently completed a small dice rolling game for Java, class, please see the screenshot for more info! Additionally, I am currently making good progress in a person web scraping project. Live links are not available for these items, however, check out my website, http://www.andreagaietto.com. 
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+[screenshot](./assets/Screenshot 2020-10-28 140216.jpg)
